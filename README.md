@@ -1,6 +1,5 @@
 ## Gabriel Nilmar
-
-Meu nome é Gabriel Nilmar, tenho 17 anos (nascido em 17/12/2008). Atualmente, estou cursando o 3º ano do Ensino Médio na escola M.M.D.C. No momento, meu principal objetivo é desenvolver meu currículo profissional, mesmo sem experiência formal de trabalho ou estágio atualmente na data de (19/02/2026).
+Tenho 17 anos (nascido em 17/12/2008). Atualmente, estou cursando o 3º ano do Ensino Médio na escola M.M.D.C. No momento, meu principal objetivo é desenvolver meu currículo profissional, mesmo sem experiência formal de trabalho ou estágio atualmente na data de (19/02/2026).
 
 Tenho conhecimentos em linguagens de programação como Python e um conhecimento basico enão tão profundo de HTML. Em Python, possuo uma base sólida e continuo aprimorando minhas habilidades. Já em HTML, tenho conhecimentos básicos, mas estou em constante aprendizado e buscando evoluir na área de desenvolvimento web.
 
