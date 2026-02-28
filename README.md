@@ -5,7 +5,7 @@ Tenho conhecimentos em linguagens de programação como Python e um conhecimento
 
 Tenho grande interesse em estudar programação e construir uma carreira na área de tecnologia, pois considero um campo com muitas oportunidades de crescimento. Meu objetivo é trabalhar em grandes empresas, como multinacionais de tecnologia, ou em empresas que ofereçam a possibilidade de trabalho remoto.
 
-## Entre os principais projetos que desenvolvi(participei) destaco:
+## Entre os principais projetos que Desenvolvi / Participo destaco:
 
 Portal Python. projeto criado a partir de python e várias outras linguagens como flask e html
 atualmente esse projeto esta disponivel no link a seguir
