@@ -12,3 +12,5 @@ atualmente esse projeto esta disponivel no link a seguir
 https://meu-portal-python.onrender.com/
 
 ### Estou sempre buscando aprender novas tecnologias, desenvolver projetos práticos e evoluir profissionalmente na área de desenvolvimento de software.
+
+LEGAL
